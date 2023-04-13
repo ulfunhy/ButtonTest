@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ButtonTest</string> <!--app_name은 지우지 말것-->
+    <string name="btn1">Button Test</string>
+    <string name="txt1">Android Programing</string>
+</resources>
